@@ -32,8 +32,10 @@ The [TaskMaster Web App](https://github.com/LamThanhNgan/TaskMaster-Web-App.git)
 SDLC-TaskMaster/
 │
 ├── Analyze requirements/
-│   ├── Gather requirements/
-│   └── test-cases/
+│   ├── Functional Requirements/
+│   ├── Non-Functional Requirements/
+│   ├── Stakeholder Analysis/
+│   └── docs.md
 │
 ├── Design/
 │   ├── architecture.md
