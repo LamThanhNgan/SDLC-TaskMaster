@@ -1,6 +1,6 @@
 # TaskMaster Web App
 
-> Demostration
+> Demonstrate
 
 ## Table of Contents
 
